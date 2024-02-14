@@ -20,8 +20,10 @@ The purpose of Faker.js is to generate fake but viable data to use while testing
 
 Now you can use this data to test your code. For this example, let’s imagine you just print out the people. This would be your output [3]
 
-> Dr. Victor Anderson, Cis male, Future Configuration Facilitator 
-> Marty Pollich, Intersex, Customer Identity Facilitator 
+> Dr. Victor Anderson, Cis male, Future Configuration Facilitator
+> 
+> Marty Pollich, Intersex, Customer Identity Facilitator
+> 
 > Leigh Stoltenberg, Demi-boy, Principal Web Director
 
 ## Question 4. When was it created?
@@ -43,6 +45,9 @@ Yes! Since Faker.js makes testing smoother, I will start using it in my programs
 
 # References 
 > [1] https://fakerjs.dev/guide/
+> 
 > [2] https://fakerjs.dev/api/
+> 
 > [3] https://fakerjs.dev/api/person.html
+> 
 > [4] [https://fakerjs.dev/about/announcements/2022-01-14]https://fakerjs.dev/about/announcements/2022-01-14.html#:~:text=Faker%20was%20first%20implemented%20in%20Perl%20in%202004,including%20Ruby%2C%20Python%2C%20Java%2C%20Clojure%2C%20PHP%2C%20and%20C%23.
