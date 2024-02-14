@@ -17,41 +17,41 @@ The last function just shows off some of the most niche features, in this case b
 
 
 ### Question 4.
-> Before Sorting: 
-> 51591236
-> 14478851
-> 70474571
-> 62237212
-> 40841156
-> 58121024
-> 58241912
-> 28946650
-> 36379729
-> 21723001
+Before Sorting: 
+51591236
+14478851
+70474571
+62237212
+40841156
+58121024
+58241912
+28946650
+36379729
+21723001
 
-> After sorting:
-> 14478851
-> 21723001
-> 28946650
-> 36379729
-> 40841156
-> 51591236
-> 58121024
-> 58241912
-> 62237212
-> 70474571
+After sorting:
+14478851
+21723001
+28946650
+36379729
+40841156
+51591236
+58121024
+58241912
+62237212
+70474571
 
-> Average length of nouns
-> 6.8
+Average length of nouns
+6.8
 
-> Assigned Seats
-> Rodney Hammes Seat:15D
-> Sandy Gorczany Seat:12F
-> Mr. Jonathon Schroeder Seat:25C
-> Angel Sanford MD Seat:21D
-> Nicole Powlowski Seat:4B
-> Alexis West Seat:13F
-> Renee Spencer Seat:18D
-> Christina Bahringer Seat:11B
-> Raymond Walker Seat:23F
-> Lorraine Koch IV Seat:19A
+Assigned Seats
+Rodney Hammes Seat:15D
+Sandy Gorczany Seat:12F
+Mr. Jonathon Schroeder Seat:25C
+Angel Sanford MD Seat:21D
+Nicole Powlowski Seat:4B
+Alexis West Seat:13F
+Renee Spencer Seat:18D
+Christina Bahringer Seat:11B
+Raymond Walker Seat:23F
+Lorraine Koch IV Seat:19A
