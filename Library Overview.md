@@ -13,7 +13,9 @@ Faker has a bunch of functions which create random data. When you need some comm
 ## Question 3. What are the functionalities of the package/library?
 The purpose of Faker.js is to generate fake but viable data to use while testing or developing code. For example let’s make a person, each person has a fullName, gender and job title. Rather than having to make 20 people with different names, genders and jobs, you can do something like
 > let person1= new person(faker.person.fullname(),faker.person.gender(),faker.person.jobTitle());
+> 
 > let person2= new person(faker.person.fullname(),faker.person.gender(),faker.person.jobTitle());
+> 
 > let person3= new person(faker.person.fullname(),faker.person.gender(),faker.person.jobTitle());
 
 Now you can use this data to test your code. For this example, let’s imagine you just print out the people. This would be your output [3]
