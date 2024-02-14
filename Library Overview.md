@@ -1,11 +1,11 @@
 # Library Overview
 
 ## Question 1. Which Package did you Select
-The library I choice was Faker.js for JavaScript
+The library I chose was Faker.js for JavaScript
 
 ## Question 2.What is the package/library
 ### 2a. What purpose does it serve?
-Faker.js is a library that generates data such as names, phone numbers, words, addresses, account numbers, hexadecimal numbers and other common data often used in programming. Faker.js also includes more niche data such as vehicle number, airplane model and cat breed. This makes testing your code much easier as you don’t need to create all of the fake data by yourself. Let’s say for example, you are making a program that sorts an array of words alphabetically. Usually, you would need to make a couple different arrays and fill them with a bunch of different words. This not only takes time, but also allows bias. For example, you could miss a case where there is a flaw in your code. With the randomness Faker.js provides, you can find errors in your code and create a more realistic testing environment. Additionally, you can use Faker.js to make quick working demos rather than spending hours creating your own data. [1][2]
+Faker.js is a library that generates data such as names, phone numbers, words, addresses, account numbers, hexadecimal numbers and other common data often used in programming. Faker.js also includes more niche data such as vehicle number, airplane model and cat breed. This makes testing your code much easier as you don’t need to create all of the fake data by yourself. Let’s say for example, you are making a program that sorts an array of words alphabetically. Usually, you would need to make a couple different arrays and fill them with a bunch of different words. This not only takes time, but also allows room for bias. For example, you could miss a case where there is a flaw in your code. With the randomness Faker.js provides, you can find errors in your code and create a more realistic testing environment. Additionally, you can use Faker.js to make quick working demos rather than spending hours creating your own data. [1][2]
 
 ### 2b. How do you use it
 Faker has a bunch of functions which create random data. When you need some common data to test your code, you can use one of the many functions that Faker.js provides to create it. How Faker works is that there’s different randomizers which generate different data, each one is sorted into a category. Certain useful categories being Finance, Person, Word and Location. [2]
